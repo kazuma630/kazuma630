@@ -46,6 +46,7 @@
 - フロントエンド環境整備（Vue.js3系 / webpack導入）
 - フロントエンド保守（Node.js, webpackなどミドルウェア〜各種npmライブラリのメンテナンス / 運用フロー構築）
 - Ruby on Rails, Firebaseでのバックエンド開発
+- MySQL, Firestoreを使ったDB操作、設計
 - SQLを使ったデータ抽出、施策の効果検証
 - 勉強会、LT会などコミュニティ形成
 - アジャイル、スクラム開発の進行補助
